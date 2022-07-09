@@ -45,6 +45,6 @@ app.get("/",(re,res)=>{
     res.json({ello:"djdjd"})
 })
 
-app.listen(7000,()=>{
+app.listen(port,()=>{
     console.log("Listening on port 3000")
 })
