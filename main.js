@@ -23,7 +23,7 @@ const transactionType = new GraphQLObjectType({
 const RootQuery = new GraphQLObjectType({
     name : "RootQuertType",
     fields:{
-        getAllUsers:{
+        getAllTransactions:{
             type : new GraphQLList(transactionType),
             args : { id : {type : GraphQLInt}},
             resolve(parent,args){
