@@ -31,6 +31,8 @@ const RootQuery = new GraphQLObjectType({
     }
 })
 
+const port = process.env.PORT || 7000
+
 
 const schema = new  GraphQLSchema({query:RootQuery})
 
@@ -43,6 +45,6 @@ app.get("/",(re,res)=>{
     res.json({ello:"djdjd"})
 })
 
-app.listen(3000,()=>{
+app.listen(7000,()=>{
     console.log("Listening on port 3000")
 })
