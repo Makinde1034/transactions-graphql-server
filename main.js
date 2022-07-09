@@ -5,6 +5,7 @@ const {graphqlHTTP} = require("express-graphql")
 const transcations = require("./db")
 
 const app = express()
+app.use(cors())
 
 const transactionType = new GraphQLObjectType({
     name : "Transaction",
