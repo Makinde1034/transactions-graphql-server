@@ -1,0 +1,184 @@
+[
+    {
+        "id" : 1,
+        "title" : "GTBank",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-10",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 2,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-11",
+        "amount" : 5000
+
+    },
+    {
+        "id" : 3,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-12",
+        "amount" : 300
+
+    },
+    {
+        "id" : 4,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-13",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 5,
+        "title" : "Fidelity",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-14",
+        "amount" : 5000
+
+    },
+    {
+        "id" : 6,
+        "title" : "Zenith",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-15",
+        "amount" : 7000
+
+    },
+    {
+        "id" : 7,
+        "title" : "GTBank",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-10",
+        "amount" : 4500
+
+    },
+    {
+        "id" : 8,
+        "title" : "Union",
+        "type" : "debit",
+        "status" :"pending",
+        "date" : "2022-07-11",
+        "amount" : 2000
+
+    },
+    {
+        "id" : 9,
+        "title" : "GTBank",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-12",
+        "amount" : 7600
+
+    },
+    {
+        "id" : 10,
+        "title" : "Fidelity",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-13",
+        "amount" : 5400
+
+    },
+    {
+        "id" : 11,
+        "title" : "Zenith",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-14",
+        "amount" : 8000
+
+    },
+    {
+        "id" : 12,
+        "title" : "Gomoney",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-15",
+        "amount" : 3400
+
+    },
+    {
+        "id" : 13,
+        "title" : "Kuda",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-10",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 14,
+        "title" : "Kuda",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-11",
+        "amount" : 7000
+
+    },
+    {
+        "id" : 15,
+        "title" : "GTBank",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-12",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 16,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-13",
+        "amount" : 6400
+
+    },
+    {
+        "id" : 17,
+        "title" : "Sterling",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-14",
+        "amount" : 3000
+
+    },
+    {
+        "id" :18,
+        "title" : "Sterling",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-15",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 19,
+        "title" : "Zenith",
+        "type" : "credit",
+        "status" : "Successful",
+        "date" : "2022-07-09",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 20,
+        "title" : "Access",
+        "type" : "credit",
+        "status" : "Successful",
+        "date" : "2022-07-09",
+        "amount" : 3000
+
+    }
+
+
+]
