@@ -165,7 +165,7 @@
         "id" : 19,
         "title" : "Zenith",
         "type" : "credit",
-        "status" : "Successful",
+        "status" : "successful",
         "date" : "2022-07-09",
         "amount" : 3000
 
@@ -174,8 +174,53 @@
         "id" : 20,
         "title" : "Access",
         "type" : "credit",
-        "status" : "Successful",
+        "status" : "successful",
         "date" : "2022-07-09",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 21,
+        "title" : "UBA",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-11",
+        "amount" : 1200
+
+    },
+    {
+        "id" : 22,
+        "title" : "Sky",
+        "type" : "credit",
+        "status" : "successful",
+        "date" : "2022-07-13",
+        "amount" : 1500
+
+    },
+    {
+        "id" : 23,
+        "title" : "Sky",
+        "type" : "credit",
+        "status" : "pending",
+        "date" : "2022-07-10",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 24,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-12",
+        "amount" : 3000
+
+    },
+    {
+        "id" : 25,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-13",
         "amount" : 3000
 
     }
