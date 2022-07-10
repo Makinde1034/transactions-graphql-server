@@ -229,7 +229,7 @@
         "title" : "GTBank",
         "type" : "debit",
         "status" : "failed",
-        "date" : "2022-07-25",
+        "date" : "2022-07-15",
         "amount" : 3000
 
     },
@@ -238,7 +238,7 @@
         "title" : "Fidelity",
         "type" : "debit",
         "status" : "Pending",
-        "date" : "2022-07-25",
+        "date" : "2022-07-15",
         "amount" : 3000
 
     }
