@@ -237,7 +237,7 @@
         "id" : 27,
         "title" : "Fidelity",
         "type" : "debit",
-        "status" : "Pending",
+        "status" : "pending",
         "date" : "2022-07-15",
         "amount" : 3000
 
