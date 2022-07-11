@@ -343,6 +343,24 @@
 
     },
     {
+        "id" : 38,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-15",
+        "amount" : 5000
+
+    },
+    {
+        "id" : 39,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-11",
+        "amount" : 500
+
+    },
+    {
         "id" :42,
         "title" : "UBA",
         "type" : "debit",
@@ -358,6 +376,15 @@
         "status" : "successful",
         "date" : "2022-07-10",
         "amount" : 87000
+
+    },
+    {
+        "id" : 30,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-11",
+        "amount" : 5000
 
     }
 
