@@ -321,16 +321,43 @@
         "type" : "debit",
         "status" : "successful",
         "date" : "2022-07-11",
-        "amount" : 5000
+        "amount" : 400
 
     },
     {
         "id" : 36,
         "title" : "GTBank",
         "type" : "debit",
-        "status" : "successful",
+        "status" : "pending",
         "date" : "2022-07-11",
-        "amount" : 5000
+        "amount" : 5500
+
+    },
+    {
+        "id" : 37,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "failed",
+        "date" : "2022-07-15",
+        "amount" : 6600
+
+    },
+    {
+        "id" :42,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-14",
+        "amount" : 50500
+
+    },
+    {
+        "id" : 43,
+        "title" : "UBA",
+        "type" : "debit",
+        "status" : "successful",
+        "date" : "2022-07-10",
+        "amount" : 87000
 
     }
 
