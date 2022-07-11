@@ -101,10 +101,10 @@
     
     {
         "id" : 13,
-        "title" : "Kuda",
+        "title" : "Zenith",
         "type" : "debit",
-        "status" : "failed",
-        "date" : "2022-07-10",
+        "status" : "successful",
+        "date" : "2022-07-13",
         "amount" : 3000
 
     },
@@ -141,7 +141,7 @@
         "title" : "Zenith",
         "type" : "credit",
         "status" : "successful",
-        "date" : "2022-07-09",
+        "date" : "2022-07-10",
         "amount" : 3000
 
     },
@@ -263,7 +263,7 @@
 
     },
     {
-        "id" : 31,
+        "id" : 33,
         "title" : "Zenith",
         "type" : "debit",
         "status" : "successful",
@@ -272,7 +272,7 @@
 
     },
     {
-        "id" : 32,
+        "id" : 34,
         "title" : "Zenith",
         "type" : "credit",
         "status" : "successful",
@@ -281,7 +281,7 @@
 
     },
     {
-        "id" : 33,
+        "id" : 35,
         "title" : "Fidelity",
         "type" : "debit",
         "status" : "pending",
@@ -290,7 +290,7 @@
 
     },
     {
-        "id" : 34,
+        "id" : 36,
         "title" : "Zenith",
         "type" : "debit",
         "status" : "pending",
@@ -299,7 +299,7 @@
 
     },
     {
-        "id" : 35,
+        "id" : 37,
         "title" : "Fidelity",
         "type" : "debit",
         "status" : "successful",
@@ -308,7 +308,7 @@
 
     },
     {
-        "id" : 36,
+        "id" : 38,
         "title" : "GTBank",
         "type" : "debit",
         "status" : "pending",
@@ -317,7 +317,7 @@
 
     },
     {
-        "id" : 37,
+        "id" : 39,
         "title" : "UBA",
         "type" : "debit",
         "status" : "failed",
@@ -326,7 +326,7 @@
 
     },
     {
-        "id" : 38,
+        "id" : 40,
         "title" : "Sky",
         "type" : "debit",
         "status" : "successful",
@@ -335,7 +335,7 @@
 
     },
     {
-        "id" : 39,
+        "id" : 41,
         "title" : "Sky",
         "type" : "debit",
         "status" : "failed",
@@ -371,10 +371,10 @@
 
     },
     {
-        "id" : 15,
+        "id" : 45,
         "title" : "Sky",
         "type" : "debit",
-        "status" : "pending",
+        "status" : "successful",
         "date" : "2022-07-11",
         "amount" : 5000
 
