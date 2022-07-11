@@ -135,24 +135,7 @@
         "amount" : 6400
 
     },
-    {
-        "id" : 17,
-        "title" : "Sterling",
-        "type" : "credit",
-        "status" : "successful",
-        "date" : "2022-07-14",
-        "amount" : 3000
-
-    },
-    {
-        "id" :18,
-        "title" : "Sterling",
-        "type" : "credit",
-        "status" : "successful",
-        "date" : "2022-07-15",
-        "amount" : 3000
-
-    },
+    
     {
         "id" : 19,
         "title" : "Zenith",
@@ -379,7 +362,16 @@
 
     },
     {
-        "id" : 30,
+        "id" : 44,
+        "title" : "Sky",
+        "type" : "debit",
+        "status" : "pending",
+        "date" : "2022-07-11",
+        "amount" : 5000
+
+    },
+    {
+        "id" : 15,
         "title" : "Sky",
         "type" : "debit",
         "status" : "pending",
